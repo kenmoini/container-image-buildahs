@@ -49,3 +49,7 @@ These containers are built upon each other - the _base-rhel-7_ container is used
  - Moar DOCS
  - Remove packages after installing in containers for compilation
  - Variablize a few things
+
+## Credits
+
+A lot of this work was based on porting Ric Harvey's work found here: https://gitlab.com/ric_harvey/nginx-php-fpm
